@@ -34,7 +34,7 @@ public class Main {
 		int n;
 		
 		for(int i=1;i<=2000;i++) {
-			System.out.println(i+" "+arrFa[i]);
+			//System.out.println(i+" "+arrFa[i]);
 		}
 		while((n=scan.nextInt())!=0) {
 			System.out.println(arrFa[n]);
